@@ -27,4 +27,4 @@ php artisan serve
 --> Open Browser 
 http://localhost:8000
 ```
-
+![link video run laravel](https://github.com/ayusudi/phpnative-and-laravel/blob/main/video-laravel.mov)
